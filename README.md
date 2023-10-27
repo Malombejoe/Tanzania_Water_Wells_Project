@@ -1,7 +1,6 @@
 
 # Tanzanian Water Wells Classification
 
-![image](https://github.com/Malombejoe/Tanzania_Water_Wells_Project/assets/99344966/f2775647-a408-419f-9e75-76ea1125cfbb)
 
 
 
