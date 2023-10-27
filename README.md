@@ -6,11 +6,11 @@
 
 ## Business Case
 
-Clean water, basic toilets and good hygiene practices are essential for the survival and development of children. For children under five, water- and sanitation-related diseases are one of the leading causes of death. Every day, over 800 children die from preventable diseases caused by poor water, and a lack of sanitation and hygiene. UNICEF’s water, sanitation and hygiene (WASH) team works in over 100 countries worldwide to improve water and sanitation services, as well as basic hygiene practices. Last year, UNICEF’s efforts provided nearly 14 million people with clean water and over 11 million with basic toilets. Our current mission is to predict the condition of water wells in Tanzania, as they are facing a massive water crisis. 
+Basic sanitation facilities, clean water, and proper hygiene are necessary for children's survival and growth. Water- and sanitation-related infections rank among the top causes of death for children under five. More than 800 kids perish every day from diseases that could be prevented, brought on by dirty water and inadequate sanitation and hygiene. The water, sanitation, and hygiene (WASH) team of UNICEF works in more than 100 countries to enhance access to basic hygiene practices as well as water and sanitation services. Through UNICEF's efforts, almost 11 million people received basic toilets and close to 14 million people received clean water in the previous year. Given Tanzania's severe water issue, our present task is to forecast the state of the country's water wells. 
 
 
 ## Objective of the project
-*Build a multi-classifier to predict the condition of water wells using various machine learning algorithms*
+*Create a multi-classifier employing different machine learning methods to forecast the state of water wells.*
 
 #### Technologies Used:
 * Pandas for Data Cleaning
